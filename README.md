@@ -4,4 +4,7 @@ I am a college student currently working towards my Bachelor's in the Department
 
 I'm an avid competitor of the [International Competitive Programming Contest](https://icpc.global/) where students across the globe compete.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rbbingham1893?theme=dark&font=ABeeZee)
+<b> ⌨️ Competitve Programming 💻 </b>
+<p float="left">
+  <img height="180em" src="https://leetcard.jacoblin.cool/rbbingham1893?theme=dark&font=ABeeZee" />
+</p>
