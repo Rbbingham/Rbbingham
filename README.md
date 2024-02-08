@@ -1,5 +1,5 @@
 <!--DON'T EDIT THIS IN MARKDOWNPREVIEW-->
-<h2>
+<h3>
 <pre>
 0x000000: 05 f1 07 79 e8 59 a2 a5 c8 91 eb f1 77 9a 55 4b  ...y.Y......w.UK
 0x000010: a8 dd d8 75 89 00 4c d2 79 93 39 0d 7c c9 19 81  ...u..L.y.9.|...
@@ -10,7 +10,7 @@
 0x000060: ba 20 fb a2 79 9d 48 41 2e 33 33 a5 cd 88 f0 75  . ..y.HA.33....u
 0x000070: 65 c8 eb ef c8 37 c1 42 ca fa 4f 46 c3 68 c8 7e  e....7.B..OF.h.~
 </pre>
-</h2>
+</h3>
 
 I am a college student currently working towards my Bachelor's in the Department of Computer Science at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Data Science. 
 
