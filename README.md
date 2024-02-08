@@ -20,45 +20,41 @@ I'm an avid competitor of the [International Collegiate Programming Contest](htt
 <h2 align="center">💻 Tech Stack</h2>
 
 #### Programming Languages
-<center>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-</center>
+<p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="display: block; margin: auto;"/>
+</p>
 
 #### Frameworks
-<center>
-
-![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=Boost&logoColor=white)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-F81037C?style=for-the-badge&logo=google&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</center>
+<p align="center">
+    <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=Boost&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/GoogleTest-F81037C?style=for-the-badge&logo=google&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="display: block; margin: auto;"/>
+</p>
 
 #### Tools
-<center>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</center>
+<p align="center">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="display: block; margin: auto;"/>
+</p>
 
 <h2 align="center">👩‍💻 IDE</h2>
 
-<a href="https://github.com/Rbbingham/dotfiles/">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="padding: 10px; display: block; margin: auto; width: 25%;"/>
-</a>
+<p align="center">
+    <a href="https://github.com/Rbbingham/dotfiles/">
+        <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="padding: 10px; display: block; margin: auto; width: 25%;"/>
+    </a>
+</p>
 
 ![VSplit](./img/VSplit.png)
 ![Telescope](./img/Telescope.png)
@@ -66,7 +62,7 @@ I'm an avid competitor of the [International Collegiate Programming Contest](htt
 
 <h2 align="center">📊 Stats</h2>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Rbbingham)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Rbbingham" style="display: block; margin: auto; width: 100%;"/>
 
 <h2 align="center">🗂️ Highlight Projects</h2>
 
