@@ -63,11 +63,9 @@ I'm an avid competitor of the [International Collegiate Programming Contest](htt
 
 <img src="https://github-profile-trophy.vercel.app/?username=Rbbingham" style="display: block; margin: auto; width: 100%;"/>
 
+<!--
 <h2 align="center">🗂️ Highlight Projects</h2>
-
-<a href="https://github.com/Rbbingham/CSC-4610-Capstone">
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=Rbbingham&repo=CSC-4610-Capstone&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CSC-4610-Capstone"/>
-</a>
+-->
 
 <h2 align="center">⌨️ Competitve Programming 💻</h2>
 
