@@ -12,9 +12,9 @@
 </pre>
 </h3>
 
-I am a college student currently working towards my Bachelor's in the Department of Computer Science at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Data Science. 
+I am a college graduate that studied computer science at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Data Science. 
 
-I'm an avid competitor of the [International Collegiate Programming Contest](https://icpc.global/) where students across the globe compete in an intense contest to solve real-world problems. I'm also a member of the [Data Science League](https://www.tntech.edu/engineering/programs/csc/data-science-league.php) here at Tennessee Tech University where we apply data science techniques to collect data, analyze data, and create models to predict data.
+I'm an avid programmer and data nerd who enjoys writing code daily and improving my skills as a developer.
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -27,12 +27,14 @@ I'm an avid competitor of the [International Collegiate Programming Contest](htt
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=CE412B" style="display: block; margin: auto;" />
 </p>
 
 #### Frameworks
 <p align="center">
     <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=Boost&logoColor=white" style="display: block; margin: auto;"/>
-    <img src="https://img.shields.io/badge/GoogleTest-F81037C?style=for-the-badge&logo=google&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/GTest-FFFFFF?style=for-the-badge&logo=google&logoColor=DB4437" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/GMock-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="display: block; margin: auto;"/>
@@ -45,6 +47,8 @@ I'm an avid competitor of the [International Collegiate Programming Contest](htt
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="display: block; margin: auto;"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/VirtualBox-08B0F0?style=for-the-badge&logo=VirtualBox&logoColor=white" style="display: block; margin: auto;"/>
+    <img src="https://img.shields.io/badge/VMWare-F38F08?style=for-the-badge&logo=VMWare&logoColor=white" style="display: block; margin: auto;"/>
 </p>
 
 <h2 align="center">👩‍💻 IDE</h2>
